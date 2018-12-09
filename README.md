@@ -7,5 +7,5 @@
 <div align=center>
   <img src="https://github.com/ArnoTc/y/blob/master/README/E.png"/>
   <img src="https://github.com/ArnoTc/y/blob/master/README/Q.png"/>
-  <img src="https://https://github.com/ArnoTc/y/blob/master/README/W.png"/>
+  <img src="https://github.com/ArnoTc/y/blob/master/README/W.png"/>
 </div>
